@@ -323,6 +323,7 @@ section {
 
 .social-links {
   margin-top: 50px;
+  margin-bottom: 50px;
   display: flex;
   justify-content: center;
   gap: 30px;
